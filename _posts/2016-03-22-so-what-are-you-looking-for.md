@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: So what are you looking for?
-datePublished: '2016-03-22T15:06:12.474Z'
-dateModified: '2016-03-22T14:49:41.060Z'
+datePublished: '2016-03-23T12:30:04.357Z'
+dateModified: '2016-03-23T12:30:03.904Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-22-so-what-are-you-looking-for.md
