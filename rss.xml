@@ -4,7 +4,7 @@
         <description><![CDATA[Principis Ltd]]></description>
         <link>https://thegrid.ai/principis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 15:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 15:35:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/principis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[So What are You Looking for?]]></title>
@@ -21,11 +21,12 @@
             <pubDate>Fri, 01 Apr 2016 15:34:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8bcaecc-2374-4834-82fb-1203dd11fa0b.gif">]]></description>
+            <title><![CDATA[Ambition]]></title>
+            <description><![CDATA[<article><h1>Ambition</h1><p>Ambition
+</p></article>]]></description>
             <link>https://thegrid.ai/principis/ambition/index.html</link>
             <guid isPermaLink="false">73692d97-324d-4ae3-9851-c52b9595acaa</guid>
-            <pubDate>Fri, 01 Apr 2016 15:19:26 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 15:35:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Leadership]]></title>
@@ -37,12 +38,12 @@
             <pubDate>Fri, 01 Apr 2016 15:31:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Purpose
-</p>]]></description>
+            <title><![CDATA[Purpose]]></title>
+            <description><![CDATA[<article><h1>Purpose</h1><p>Purpose
+</p></article>]]></description>
             <link>https://thegrid.ai/principis/purpose/index.html</link>
             <guid isPermaLink="false">e2c42c49-a510-4f95-b8ee-0ab18bf1f791</guid>
-            <pubDate>Fri, 01 Apr 2016 15:19:11 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 15:34:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
