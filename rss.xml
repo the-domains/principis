@@ -4,7 +4,7 @@
         <description><![CDATA[Principis Ltd]]></description>
         <link>https://thegrid.ai/principis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 15:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 15:34:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/principis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[So What are You Looking for?]]></title>
@@ -37,12 +37,12 @@
             <pubDate>Fri, 01 Apr 2016 15:31:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Purpose]]></title>
-            <description><![CDATA[<article><h1>Purpose</h1><p>Purpose
-</p></article>]]></description>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Purpose
+</p>]]></description>
             <link>https://thegrid.ai/principis/purpose/index.html</link>
             <guid isPermaLink="false">e2c42c49-a510-4f95-b8ee-0ab18bf1f791</guid>
-            <pubDate>Fri, 01 Apr 2016 15:34:30 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 15:19:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
