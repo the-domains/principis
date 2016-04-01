@@ -4,7 +4,7 @@
         <description><![CDATA[Principis Ltd]]></description>
         <link>https://thegrid.ai/principis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 15:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 15:35:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/principis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[So What are You Looking for?]]></title>
@@ -22,7 +22,8 @@
         </item>
         <item>
             <title><![CDATA[Ambition]]></title>
-            <description><![CDATA[<article><h1>Ambition</h1><p>Ambition
+            <description><![CDATA[<article><h1>Ambition</h1><p>
+We all harbour ambitions, understanding and identifying what these ambitions are is not always straightforward… Are you often drawing or writing up concepts that genuinely give you that excitement and buzz of progress, just for them to remain on the desk or wall with all the others? 
 </p></article>]]></description>
             <link>https://thegrid.ai/principis/ambition/index.html</link>
             <guid isPermaLink="false">73692d97-324d-4ae3-9851-c52b9595acaa</guid>
@@ -43,7 +44,7 @@
 </p></article>]]></description>
             <link>https://thegrid.ai/principis/purpose/index.html</link>
             <guid isPermaLink="false">e2c42c49-a510-4f95-b8ee-0ab18bf1f791</guid>
-            <pubDate>Fri, 01 Apr 2016 15:34:30 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 15:35:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
