@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: So what are you looking for?
-datePublished: '2016-03-23T12:30:04.357Z'
-dateModified: '2016-03-23T12:30:03.904Z'
-title: ''
+datePublished: '2016-04-01T15:18:31.304Z'
+dateModified: '2016-04-01T15:18:03.561Z'
+title: So What are you Looking for?
 author: []
 sourcePath: _posts/2016-03-22-so-what-are-you-looking-for.md
 published: true
@@ -22,6 +22,5 @@ url: so-what-are-you-looking-for/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e863ad6-c0fd-42a9-97e8-12d196031c91.gif)
-
 So what are you looking for?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e69a4c35-0d8e-45c6-b158-873546226a28.jpg)
