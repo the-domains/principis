@@ -7,8 +7,8 @@ starred: false
 keywords: []
 description: |
   Leadership
-datePublished: '2016-03-22T15:29:31.147Z'
-dateModified: '2016-03-22T15:29:26.303Z'
+datePublished: '2016-04-01T15:18:55.364Z'
+dateModified: '2016-03-22T15:29:39.544Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-22-leadership.md
