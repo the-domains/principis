@@ -1,6 +1,6 @@
 name: Principis Ltd
 favicon: null
-layout_spectrum: 0.90817
+layout_spectrum: 0.64286
 typography_spectrum: 0.83173
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#ff0000'
   brandStrength: 0.25
-  lightness: 0.8125
+  lightness: 0.75
   saturation: 0.6875
   rhythmicContrast: 0.75
 purpose: []
