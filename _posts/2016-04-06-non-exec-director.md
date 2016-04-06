@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'Matt has been working with businesses as a Non-Executive Director to provide them with independent and impartial views together with:'
-datePublished: '2016-04-06T20:23:03.268Z'
-dateModified: '2016-04-06T20:19:45.366Z'
+datePublished: '2016-04-06T20:24:16.990Z'
+dateModified: '2016-04-06T20:23:12.423Z'
 title: Non-Exec Director
 author: []
 sourcePath: _posts/2016-04-06-non-exec-director.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: non-exec-director/index.html
-_type: Article
+_type: Blurb
 
 ---
 Matt has been working with businesses as a Non-Executive Director to provide them with independent and impartial views together with:
