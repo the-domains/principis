@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Matt has been working with businesses as a Non-Executive Director to provide them with independent and impartial views together with:'
-datePublished: '2016-04-06T19:27:56.356Z'
-dateModified: '2016-04-06T19:05:47.086Z'
+datePublished: '2016-04-06T20:07:05.431Z'
+dateModified: '2016-04-06T20:07:04.531Z'
 title: Non-Exec Director
 author: []
 sourcePath: _posts/2016-04-06-non-exec-director.md
@@ -22,8 +22,6 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64dad41-9524-4dac-a6a9-5f15e993c403.jpg)
-
 Matt has been working with businesses as a Non-Executive Director to provide them with independent and impartial views together with:
 
 * Mentoring and coaching the current Managing Directors.
@@ -37,3 +35,4 @@ Matt has been working with businesses as a Non-Executive Director to provide the
 
 * Monitoring performance. 
 ****____
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3d354e5-e5dd-4f55-843b-1443bc1d08a8.jpg)
