@@ -4,7 +4,7 @@
         <description><![CDATA[Principis Ltd]]></description>
         <link>https://thegrid.ai/principis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 15:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 15:32:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/principis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[So What are You Looking for?]]></title>
@@ -12,15 +12,6 @@
             <link>https://thegrid.ai/principis/so-what-are-you-looking-for/index.html</link>
             <guid isPermaLink="false">07ee3af9-cdc4-46af-a248-106d80686436</guid>
             <pubDate>Fri, 01 Apr 2016 15:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ambition]]></title>
-            <description><![CDATA[<article><h1>Ambition</h1><p>
-We all harbour ambitions, understanding and identifying what these ambitions are is not always straightforward… Are you often drawing or writing up concepts that genuinely give you that excitement and buzz of progress, just for them to remain on the desk or wall with all the others? 
-</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11def146-0d43-4834-9814-668664621291.gif"></article>]]></description>
-            <link>https://thegrid.ai/principis/ambition/index.html</link>
-            <guid isPermaLink="false">73692d97-324d-4ae3-9851-c52b9595acaa</guid>
-            <pubDate>Fri, 08 Apr 2016 15:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Purpose]]></title>
@@ -46,6 +37,15 @@ We all harbour ambitions, understanding and identifying what these ambitions are
             <link>https://thegrid.ai/principis/reflect/index.html</link>
             <guid isPermaLink="false">6f096253-0846-44c3-9a05-ca187f1a4510</guid>
             <pubDate>Fri, 08 Apr 2016 15:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ambition]]></title>
+            <description><![CDATA[<article><h1>Ambition</h1><p>
+We all harbour ambitions, understanding and identifying what these ambitions are is not always straightforward… Are you often drawing or writing up concepts that genuinely give you that excitement and buzz of progress, just for them to remain on the desk or wall with all the others? 
+</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11def146-0d43-4834-9814-668664621291.gif"></article>]]></description>
+            <link>https://thegrid.ai/principis/ambition/index.html</link>
+            <guid isPermaLink="false">73692d97-324d-4ae3-9851-c52b9595acaa</guid>
+            <pubDate>Fri, 01 Apr 2016 16:07:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
