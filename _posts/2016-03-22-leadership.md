@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Sometimes it’s a lonely place…As a leader should you be managing the business, its processes or operations? Or should you be the one holding the strategic context and energy of the business in order to allow your teams and managers to manage? \n \n"
-datePublished: '2016-04-01T15:31:02.511Z'
-dateModified: '2016-04-01T15:30:53.456Z'
+datePublished: '2016-04-08T15:32:07.823Z'
+dateModified: '2016-04-08T15:32:07.184Z'
 title: Leadership
 author: []
 sourcePath: _posts/2016-03-22-leadership.md
